@@ -1,0 +1,70 @@
+body{
+    width: 100vw;
+    height: 100vh;  
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+    background-color: #201b2c;
+    padding: 50px;
+}
+
+.titulo{
+    color: #0be4e4;
+    letter-spacing: 2px;
+    position: relative;
+    right: 100px;
+}
+
+#cad{
+    background-color: #2f2841;
+    color: white;
+    width: 330px;
+    padding: 30px 35px;
+    left: 80px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 0px 10px 40px rgb(32, 32, 55);
+}
+#cad > h1{
+    color: #0be4e4;
+}
+
+#email{
+    background: #514869; 
+    border: 0;
+    box-shadow: 0px 10px 40px #00000056;
+    color: white;
+}
+.mb-3 > input::placeholder{
+    color: #f0ffff94;
+}
+#senha{
+    background: #514869;
+    border: 0;
+    box-shadow: 0px 10px 40px #00000056;
+    color: white;
+}
+#enviar{
+    background: #45c8c8;
+    color: #2b134b;
+    border: 0;
+    box-shadow: 0px 10px 40px -12px rgb(4, 125, 125);
+    font-weight: 700;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+.img{
+    width: 330px;
+    left: 80px;
+}
+
+#btnP{
+    color: #0fb3b3;
+    font-size: 9pt;
+    margin-top: 20px;
+}
